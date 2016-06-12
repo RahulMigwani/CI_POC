@@ -1,0 +1,7 @@
+C:\Git Repo\Repo\CI_Test\CI_Test.Tests\bin\Debug\CI_Test.Tests.dll
+C:\Git Repo\Repo\CI_Test\CI_Test.Tests\bin\Debug\CI_Test.Tests.pdb
+C:\Git Repo\Repo\CI_Test\CI_Test.Tests\bin\Debug\nunit.framework.dll
+C:\Git Repo\Repo\CI_Test\CI_Test.Tests\bin\Debug\nunit.framework.xml
+C:\Git Repo\Repo\CI_Test\CI_Test.Tests\obj\Debug\CI_Test.Tests.csprojResolveAssemblyReference.cache
+C:\Git Repo\Repo\CI_Test\CI_Test.Tests\obj\Debug\CI_Test.Tests.dll
+C:\Git Repo\Repo\CI_Test\CI_Test.Tests\obj\Debug\CI_Test.Tests.pdb
