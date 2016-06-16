@@ -6,8 +6,8 @@ namespace CI_Test
 
         public void Method()
         {
-           
 
+            var x = 1;
         }
     }
 }
