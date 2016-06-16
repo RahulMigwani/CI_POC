@@ -1,0 +1,5 @@
+C:\Git Repo\Repo\CI_Test\CI_Test\bin\Debug\CI_Test.dll
+C:\Git Repo\Repo\CI_Test\CI_Test\bin\Debug\CI_Test.pdb
+C:\Git Repo\Repo\CI_Test\CI_Test\obj\Debug\CI_Test.dll
+C:\Git Repo\Repo\CI_Test\CI_Test\obj\Debug\CI_Test.pdb
+C:\Git Repo\Repo\CI_Test\CI_Test\obj\Debug\CI_Test.csprojResolveAssemblyReference.cache
