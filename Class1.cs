@@ -1,8 +1,13 @@
-﻿namespace CI_Test
+﻿using System;
+namespace CI_Test
 {
     public class Class1
     {
-    
-     error
+
+        public void Method()
+        {
+            throw new Exception();
+
+        }
     }
 }
