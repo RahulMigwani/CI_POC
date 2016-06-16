@@ -4,9 +4,9 @@ namespace CI_Test
     public class Class1
     {
 
-        public void Method()
+        public void Method();
         {
-            throw new Exception();
+           
 
         }
     }
